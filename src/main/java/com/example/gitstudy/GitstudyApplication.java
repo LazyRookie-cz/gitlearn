@@ -8,6 +8,7 @@ public class GitstudyApplication {
 
     public static void main(String[] args) {
         System.out.println(1);
+        System.out.println(23);
         SpringApplication.run(GitstudyApplication.class, args);
     }
 
