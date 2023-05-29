@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitstudyApplication {
 
     public static void main(String[] args) {
-        System.out.println(1);
-        System.out.println(23);
+        System.out.println(123);
+        System.out.println(2323);
         SpringApplication.run(GitstudyApplication.class, args);
     }
 
